@@ -22,7 +22,7 @@ function App() {
       <div id="input" className="input-box">
         <input id="name" className="input" onChange={updateName} autoComplete="off" name="input" type="text" />
         <button className="btn" onClick={greet}>
-          Greet
+          great
         </button>
       </div>
     </div>
